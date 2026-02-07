@@ -237,19 +237,19 @@ DIVIDE(
 
 ### Strategic Insights
 
-1. **✅ Strong Portfolio Health**
+1. ** Strong Portfolio Health**
    - 86.2% good loan rate indicates robust underwriting standards
    - Consistent MoM growth demonstrates business expansion
 
-2. **📈 Positive Growth Trajectory**
+2. ** Positive Growth Trajectory**
    - 13% MoM increase in funded amounts
    - 116% YoY growth from Jan to Dec 2021
 
-3. **🎯 Market Opportunity**
+3. ** Market Opportunity**
    - Debt consolidation (52.7%) presents upsell opportunities
    - Potential for specialized products targeting this segment
 
-4. **⚠️ Risk Management**
+4. ** Risk Management**
    - 13.8% charged-off rate requires attention
    - Higher DTI in charged-off loans (14.00% vs 13.17%)
 
@@ -339,10 +339,9 @@ bank-loan-analysis/
 
 ## 👤 Author
 
-**Your Name**
-
-- LinkedIn: [Your Profile](https://linkedin.com/in/yourprofile)
-- GitHub: [@yourusername](https://github.com/yourusername)
-- Email: your.email@example.com
+**Shashi Ranjan**  
+📍 EX-Intern at HFFC  
+💼 Exploring roles in Business Analytics & Data Analysis  
+📧 www.linkedin.com/in/shashi-ranjan-7b6097282
 
 ---
