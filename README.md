@@ -305,7 +305,6 @@ bank-loan-analysis/
 │   └── details_dashboard.png
 │
 ├── README.md                                 # This file
-└── LICENSE
 ```
 
 ## 📊 Dashboard Previews
